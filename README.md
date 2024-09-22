@@ -53,3 +53,19 @@ The architecture of the solution enables seamless ingestion, processing, and que
 - AWS Athena
 - Python
 - Jupyter Notebook
+
+## Output Examples
+
+Below are examples of the final output from the stock market data pipeline.
+
+### 1. Query Results for Stock Data
+
+![Query Results](./photos/Query_result.png)
+
+This image shows a snapshot of querying the stock market data, with stock prices and other metrics such as opening, closing, and volume.
+
+### 2. Highest Closing Price Query Output
+
+![Highest Closing Price](./photos/highest_closing_price.png)
+
+This image shows the result of querying the highest closing price from the stock market data.
