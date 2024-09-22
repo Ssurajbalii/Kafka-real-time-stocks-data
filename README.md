@@ -6,7 +6,7 @@ This project showcases a real-time data streaming and analysis pipeline for stoc
 
 The architecture of the solution enables seamless ingestion, processing, and querying of streaming data, giving users the ability to perform real-time analytics on stock data.
 
-![Architecture Diagram](./Architecture_kafka.png)
+![Architecture Diagram](./updated_architecture_kafka.png)
 
 ## Architecture
 
