@@ -48,6 +48,7 @@ The architecture of the solution enables seamless ingestion, processing, and que
 - Amazon Web Services (AWS)
 - EC2
 - Apache Kafka
+- Apache ZooKeeper
 - Glue Crawler
 - Glue Catalouge
 - AWS Athena
